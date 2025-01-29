@@ -10,6 +10,7 @@ const leapYears = function(year) {
         }
         return true;
     }
+    return false;
 };
 
 // Do not edit below this line
